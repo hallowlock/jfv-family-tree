@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T15:36:17.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="UQ8FrIgIRfeQKkG0mxud" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T15:41:09.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="027Bkbg-ChA2xvd5TIsU" version="22.0.8" type="github">
   <diagram name="Strona-1" id="CQu3V4kOaJphoyatPFUh">
-    <mxGraphModel dx="3268" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4497" dy="2743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,10 +231,13 @@
         <mxCell id="AnOWPNB4USXSTEZPURbS-91" value="Angel Coldwell-Jakobs" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSize=13;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;labelBorderColor=none;fillColor=#CC00CC;" vertex="1" parent="1">
           <mxGeometry x="200" y="1200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AnOWPNB4USXSTEZPURbS-92" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="AnOWPNB4USXSTEZPURbS-93" target="AnOWPNB4USXSTEZPURbS-91">
+        <mxCell id="AnOWPNB4USXSTEZPURbS-92" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnOWPNB4USXSTEZPURbS-93" target="AnOWPNB4USXSTEZPURbS-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="880" as="sourcePoint" />
             <mxPoint x="300" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="1160" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AnOWPNB4USXSTEZPURbS-94" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" target="AnOWPNB4USXSTEZPURbS-93">
@@ -353,12 +356,12 @@
         <mxCell id="AnOWPNB4USXSTEZPURbS-134" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillStyle=solid;fillColor=#331A00;" vertex="1" parent="1">
           <mxGeometry x="910" y="840" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AnOWPNB4USXSTEZPURbS-137" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;dashed=1;" edge="1" parent="1" source="AnOWPNB4USXSTEZPURbS-139">
+        <mxCell id="AnOWPNB4USXSTEZPURbS-137" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;dashed=1;exitX=0.542;exitY=1.142;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnOWPNB4USXSTEZPURbS-139" target="AnOWPNB4USXSTEZPURbS-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="1080" as="sourcePoint" />
-            <mxPoint x="240" y="1200" as="targetPoint" />
+            <mxPoint x="480" y="1090" as="sourcePoint" />
+            <mxPoint x="80" y="1200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="1160" />
+              <mxPoint x="641" y="1160" />
               <mxPoint x="240" y="1160" />
             </Array>
           </mxGeometry>
@@ -453,6 +456,32 @@
             <Array as="points">
               <mxPoint x="80" y="240" />
               <mxPoint x="80" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnOWPNB4USXSTEZPURbS-164" value="Hansuke Katagawa Jr." style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSize=13;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;labelBorderColor=none;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AnOWPNB4USXSTEZPURbS-166" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="AnOWPNB4USXSTEZPURbS-164">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1160" as="sourcePoint" />
+            <mxPoint x="380" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnOWPNB4USXSTEZPURbS-167" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillStyle=solid;fillColor=#331A00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AnOWPNB4USXSTEZPURbS-168" value="Clayton Limestone" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSize=13;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;labelBorderColor=none;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AnOWPNB4USXSTEZPURbS-169" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnOWPNB4USXSTEZPURbS-31" target="AnOWPNB4USXSTEZPURbS-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="520" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="240" />
+              <mxPoint x="160" y="560" />
+              <mxPoint x="400" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
