@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T15:20:11.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="opnIy4ehjOhrX-COGS8e" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T15:21:08.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="m0-dFsfQBPFa8OlWE2Wn" version="22.0.8" type="github">
   <diagram name="Strona-1" id="CQu3V4kOaJphoyatPFUh">
-    <mxGraphModel dx="1462" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
         <mxCell id="AnOWPNB4USXSTEZPURbS-96" value="Deceased" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="80" y="-200" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AnOWPNB4USXSTEZPURbS-100" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="AnOWPNB4USXSTEZPURbS-96">
+        <mxCell id="AnOWPNB4USXSTEZPURbS-150" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#737373;" vertex="1" parent="AnOWPNB4USXSTEZPURbS-96">
           <mxGeometry x="10" y="10" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AnOWPNB4USXSTEZPURbS-105" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#737373;" vertex="1" parent="1">
